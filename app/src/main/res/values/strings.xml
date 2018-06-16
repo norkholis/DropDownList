@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DropDownList</string>
+
+    <string-array name="android_dropdown_arrays">
+        <item>List 1</item>
+        <item>List 2</item>
+        <item>List 3</item>
+        <item>List 4</item>
+        <item>List 5</item>
+    </string-array>
+</resources>
